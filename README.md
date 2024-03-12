@@ -20,14 +20,14 @@ You can't manage what you don't monitor
 Get all of the KPIs in one place. 
 Automated
 
-# Data Sources
+## Data Sources
 
 - **YouTube**
 - **Ad Spend**
 - **Social Media Engagement**
 - **Google Analytics Page Views (g4)**
 
-Future dev
+## Future dev
 push notification (email) on threshold
 ex: when an ad/video/page view hits some number within a term, send an email to the Project Owner. 
 
