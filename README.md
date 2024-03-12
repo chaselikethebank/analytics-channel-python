@@ -20,11 +20,12 @@ You can't manage what you don't monitor
 Get all of the KPIs in one place. 
 Automated
 
-Data Sources? 
-YouTube
-Ad spend
-SM engagement 
-g4 page views 
+# Data Sources
+
+- **YouTube**
+- **Ad Spend**
+- **Social Media Engagement**
+- **Google Analytics Page Views (g4)**
 
 Future dev
 push notification (email) on threshold
