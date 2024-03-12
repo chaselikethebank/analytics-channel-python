@@ -31,7 +31,7 @@ Automated
 push notification (email) on threshold
 ex: when an ad/video/page view hits some number within a term, send an email to the Project Owner. 
 
-## Key Performance Indicators
+## Key Performance Indicators (So Far)
 
 ### YouTube Channel Analytics
 #### Channel Stats
