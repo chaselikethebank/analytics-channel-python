@@ -12,12 +12,30 @@
 ## Introduction
 Welcome to the KPI dashboard for our Creative Services. This dashboard provides key performance indicators (KPIs) to track the performance and growth of our creative services over time. By monitoring these metrics, we can make informed decisions and drive our business forward.
 
+## Project Requirements 
+```
+You can't manage what you don't monitor 
+```
+
+Get all of the KPIs in one place. 
+Automated
+
+Data Sources? 
+YouTube
+Ad spend
+SM engagement 
+g4 page views 
+
+Future dev
+push notification (email) on threshold
+ex: when an ad/video/page view hits some number within a term, send an email to the Project Owner. 
+
 ## Key Performance Indicators
 
 ### YouTube Channel Analytics
 #### Channel Stats
-- **Channel Name:** The Brand
-- **Description:** Our channel focuses on delivering engaging content to our audience, spanning from tutorials, showcases, to behind-the-scenes insights into our creative process.
+- **Channel Name:** TWMC
+ 
 - **Subscriber Count:** 5,230
 - **Total Views:** 551,147
 - **Total Videos:** 1,047
